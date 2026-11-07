@@ -1,6 +1,6 @@
 cask "dictatelocal" do
-  version "0.1.0"
-  sha256 "3a952053388956a434a27014b43cfb1d798971ca8a0395577703457ef4bed608"
+  version "0.1.1"
+  sha256 "a4b256f29b06053c22040773e51683d39af65dd0e856cabf247411480c198229"
 
   url "https://github.com/merkLui/DictateLocal/releases/download/v#{version}/DictateLocal-#{version}.dmg"
   name "DictateLocal"
